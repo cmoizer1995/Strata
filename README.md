@@ -1,2 +1,2 @@
 # Strata
-https://html5up.net/strata
+built using the https://html5up.net/strata theme 
